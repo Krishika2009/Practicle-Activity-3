@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(#fbbafa 0%, #b9bbfa 100%);
+}
+
+#defi {
+    background: linear-gradient(#fbbafa 0%, #b9bbfa 100%);
+    padding: 50px;
+    font-size: 25px;
+    height: 700px;
+}
